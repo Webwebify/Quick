@@ -1,0 +1,29 @@
+body{
+  background-image: 
+  url(https://i.ibb.co/bHW3P39/Abstract-Website-Background.jpg);
+}
+#head{
+  color: white;
+  text-align: center;
+}
+img{
+  float: left;
+}
+p{
+  text-align: center;
+  color: white;
+  font-size: 20px;
+  font-weight: bold;
+}
+.paymentmethod{
+  float: right;
+  height: 50px;
+  width: 70px;
+  align-items: center;
+  text-align: center;
+  align-self: center;
+}
+h6{
+  color: white;
+  font-size: 15px
+}
